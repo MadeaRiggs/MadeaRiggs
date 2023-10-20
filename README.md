@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Python projects pertaining to the above subjects. Basically, drawing insights from data
 - 📫 How to reach me using my gmail: mukamiclaus@gmail.com
 
+[![An image of @madeariggs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madeariggs)](https://holopin.io/@madeariggs)
 <!---
 MadeaRiggs/MadeaRiggs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
