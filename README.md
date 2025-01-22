@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MadeaRiggs but mainly known as Bronch Mukami
+- 👋 Hi, I’m @MadeaRiggs
 - 👀 I’m interested in Data Analysis, Data Science and anything to do with Python data visualization and analysis.
 - 🌱 I’m currently learning Bachelor of Science in Computer Science
 - 💞️ I’m looking to collaborate on Python projects pertaining to the above subjects. Basically, drawing insights from data
-- 📫 How to reach me using my gmail: mukamiclaus@gmail.com
+
 
 [![An image of @madeariggs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madeariggs)](https://holopin.io/@madeariggs)
 <!---
